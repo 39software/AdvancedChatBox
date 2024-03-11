@@ -30,6 +30,7 @@ dependencies {
 	modImplementation "io.github.darkkronicle:AdvancedChatCore:1.20.4-1.5.10" // only used to build the mod locally
 
 	implementation "org.languagetool:language-en:5.5"
+	implementation 'org.mariuszgromada.math:MathParser.org-mXparser:5.2.1'
 	// Transitive
 	include "org.languagetool:language-en:5.5"
 	include "org.languagetool:languagetool-core:5.5"
